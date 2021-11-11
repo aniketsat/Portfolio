@@ -1,4 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/aniket-1812/Portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/aniket-1812/Portfolio) ![GitHub forks](https://img.shields.io/github/forks/aniket-1812/Portfolio)
+# Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/aniket-1812/Portfolio/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/aniket-1812/Portfolio) ![GitHub forks](https://img.shields.io/github/forks/aniket-1812/Portfolio)
 
 ## A minimal personal portfolio website!
 
@@ -101,7 +101,7 @@ Once your server has started, go to this url `http://localhost:3000` to see the 
 ---
 
 
-# Getting Started with Create React App
+# Getting Started with Create React App 🔥
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -177,13 +177,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ---
 
 
-# Deployment
+# Deployment ⚙️
 
 Learn more about deployment at Netlify [here](https://create-react-app.dev/docs/deployment/#netlify)
 
 ---
 
-# Contributing
+# Contributing 💻
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributiors who wants to make this website better can make contribution,which will be **greatly appreciated**.
 
