@@ -1,12 +1,25 @@
-# Personal Portfolio Project
+# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/aniket-1812/Portfolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/aniket-1812/Portfolio) ![GitHub forks](https://img.shields.io/github/forks/aniket-1812/Portfolio)
 
-This is a personal portfolio website, made using React.js & CSS and Deployed using [Netlify]().
-<br>
-If you want to edit this. Clone this project and edit the files in `/src/components`.
-Learn more in **[Contributing](#Contributing)**
+## A minimal personal portfolio website!
 
+<!--
+<h2 align="center">
+  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <br>
+</h2> -->
+
+## Features
+
+⚡️ Modern UI Design\
+⚡️ One Page Layout\
+⚡️ Styled with Bootstrap v5.0 + Custom CSS\
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Well organized documentation
 
 ### Live website at [Aniket](https://aniketsat.netlify.app)
+
+
 
 
 # Getting Started with Create React App
