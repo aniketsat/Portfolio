@@ -1,3 +1,12 @@
+# Personal Portfolio Project
+
+This is a personal portfolio website, made using React.js & CSS.
+<br>
+If you want to edit this. Clone this project and edit the files in `/src/components`.
+Learn more in **[Contributing](#Contributing)**
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,7 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-
+<br>
 
 
 # Contributing
@@ -79,7 +88,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributiors who wants to make this website better can make contribution,which will be **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Clone the Project <br>
+```git clone https://github.com/aniket-1812/Portfolio.git```
+3. Create your Feature Branch <br>
+```git checkout -b feature```
+4. Make some changes
+5. Commit your Changes <br>
+```git commit -m 'Added some AmazingFeature'```
+6. Push to the Branch <br>
+```git push origin feature```
+7. Open a Pull Request
