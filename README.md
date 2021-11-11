@@ -2,11 +2,10 @@
 
 ## A minimal personal portfolio website!
 
-<!--
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/aniket-1812/Portfolio/blob/master/home-image.png" alt="Portfolio" width="100%" />
   <br>
-</h2> -->
+</h2>
 
 ## Features
 
@@ -31,7 +30,7 @@
 
 # Getting Started 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites 📋
 
@@ -49,41 +48,24 @@ Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
 yarn@v1.22.10 or higher
 ```
 
----
 
-# How To Use 🔧
+### Installation 🔧
 
-From your command line, first clone Portfolio:
 
-```bash
-# Clone the repository
-$ git clone https://github.com/aniket-1812/Portfolio.git
-
-# Move into the repository
-$ cd Portfolio
-
-```
-
-After that, you can install the dependencies either using NPM or Yarn.
+Y can install the dependencies either using NPM or Yarn.
 
 Using NPM: Simply run the below commands.
 
 ```bash
 # Install dependencies
 $ npm install
-
-# Start the development server
-$ npm start
 ```
 
-Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file before executing the below commands.
+Using Yarn: Simply run the below commands.
 
 ```bash
 # Install dependencies
 $ yarn
-
-# Start the development server
-$ yarn start
 ```
 
 **NOTE**:
@@ -99,6 +81,84 @@ Once your server has started, go to this url `http://localhost:3000` to see the 
 
 
 ---
+
+# Contributing 💻
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributiors who wants to make this website better can make contribution,which will be **greatly appreciated**.
+
+- First of all **Fork this repository**
+- Then ... 👇
+
+```bash
+# Clone the repository
+$ git clone https://github.com/YOUR_USERNAME/YOUR_FORK.git
+
+# Move into the repository
+$ cd Portfolio
+
+```
+
+- List the current configured remote repository for your fork.
+
+```bash
+$ git remote -v
+
+```
+
+- Specify a new remote upstream repository that will be synced with the fork.
+
+```bash
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+
+```
+
+- Verify the new upstream repository you've specified for your fork.
+
+```bash
+$ git remote -v
+
+```
+
+- Create a new branch
+
+```bash
+# Create your Feature Branch
+$ git checkout -b feature
+
+```
+
+- Start the development server on localhost:3000 to see the changes
+
+```bash
+# Start the development server
+$ npm start
+```
+
+- You can use yarn too
+
+```bash
+# Start the development server
+$ yarn start
+```
+
+- Make some changes
+- Then commit and push your changes
+
+```bash
+
+# Commit your Changes
+$ git commit -m 'Added some AmazingFeature'
+
+# Push to the Branch
+$ git push upstream feature
+
+```
+
+- Open a Pull Request
+
+
+---
+
 
 
 # Getting Started with Create React App 🔥
@@ -183,33 +243,3 @@ Learn more about deployment at Netlify [here](https://create-react-app.dev/docs/
 
 ---
 
-# Contributing 💻
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributiors who wants to make this website better can make contribution,which will be **greatly appreciated**.
-
-```bash
-# Clone the repository
-$ git clone https://github.com/aniket-1812/Portfolio.git
-
-# Move into the repository
-$ cd Portfolio
-
-# Create your Feature Branch
-$ git checkout -b feature
-
-```
-
-- Make some changes
-
-```bash
-
-
-# Commit your Changes
-$ git commit -m 'Added some AmazingFeature'
-
-# Push to the Branch
-$ git push origin feature
-
-```
-
-- Open a Pull Request
