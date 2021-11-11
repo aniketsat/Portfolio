@@ -1,11 +1,13 @@
 # Personal Portfolio Project
 
-This is a personal portfolio website, made using React.js & CSS.
+This is a personal portfolio website, made using React.js & CSS and Deployed using [Netlify]().
 <br>
 If you want to edit this. Clone this project and edit the files in `/src/components`.
 Learn more in **[Contributing](#Contributing)**
 
-<br>
+
+### Live website at [Aniket](https://aniketsat.netlify.app)
+
 
 # Getting Started with Create React App
 
@@ -82,6 +84,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <br>
 
+<br>
+
+# Deployment
+
+Learn more about deployment at Netlify [here](https://create-react-app.dev/docs/deployment/#netlify)
 
 # Contributing
 
