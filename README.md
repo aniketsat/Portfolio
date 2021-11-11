@@ -241,5 +241,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Learn more about deployment at Netlify [here](https://create-react-app.dev/docs/deployment/#netlify)
 
----
-
