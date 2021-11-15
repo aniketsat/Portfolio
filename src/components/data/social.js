@@ -15,6 +15,11 @@ export const SocialData = [
         icon: require('../../assets/github.png').default,
     },
     {
+        platform:"Showwcase",
+        link:"https://www.showwcase.com/aniket99",
+        icon: require('../../assets/showwcase.png').default,
+    },
+    {
         platform:"LinkedIn",
         link:"https://www.linkedin.com/in/aniket-satapathy",
         icon: require('../../assets/linkedin.png').default,
