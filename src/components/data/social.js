@@ -6,17 +6,17 @@ export const SocialData = [
     },
     {
         platform:"Twitter",
-        link:"https://twitter.com/Aniket99_",
+        link:"https://twitter.com/aniketsat",
         icon: require('../../assets/twitter.png').default,
     },
     {
         platform:"Github",
-        link:"https://github.com/aniket-1812",
+        link:"https://github.com/aniketsat",
         icon: require('../../assets/github.png').default,
     },
     {
         platform:"Showwcase",
-        link:"https://www.showwcase.com/aniket99",
+        link:"https://www.showwcase.com/aniketsat",
         icon: require('../../assets/showwcase.png').default,
     },
     {
