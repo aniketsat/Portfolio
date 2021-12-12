@@ -1,5 +1,6 @@
 import React from 'react'
 import './mobile.css'
+import {Link} from 'react-router-dom'
 
 function Mobile({isOpen, setIsOpen}) {
     return (
@@ -24,9 +25,9 @@ function Mobile({isOpen, setIsOpen}) {
                     </a>
                 </div>
                 <div className="mobile-option">
-                    <a href="https://anikets.hashnode.dev/" target="_blank" rel="noreferrer">
+                    <Link to="/blog" target="_blank" rel="noreferrer" exact>
                         Blog
-                    </a>
+                    </Link>
                 </div>
                 <div className="mobile-option">
                     <a href="#contact">

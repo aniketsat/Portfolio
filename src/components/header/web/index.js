@@ -1,5 +1,6 @@
 import React from 'react'
 import './web.css'
+import {Link} from 'react-router-dom'
 
 function Web() {
     return (
@@ -20,9 +21,9 @@ function Web() {
                 </a>
             </div>
             <div className="web-option">
-                <a href="https://anikets.hashnode.dev/" target="_blank" rel="noreferrer">
+                <Link to="/blog" target="_blank" rel="noreferrer" exact>
                     Blog
-                </a>
+                </Link>
             </div>
             <div className="web-option">
                 <a href="#contact">
