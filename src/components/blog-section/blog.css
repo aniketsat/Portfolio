@@ -1,14 +1,47 @@
 .blog {
     scroll-behavior: smooth;
-    height: 100vh;
+    height: 100%;
+    margin: auto;
 }
+
+/* HEADER  */
+
+.blog-header {
+    display:flex;
+    flex-direction:row;
+    height: 10vh;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding-right: 4%;
+}
+
+.blog-header__options {
+    margin: 5px 12px;
+}
+.blog-header__options a {
+    color: rgb(133, 16, 16);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.blog-header-options__icon {
+    padding-right: .4rem;
+}
+
+
+/* BLOG CONTAINER  */
 
 .blog-container{
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
     max-width:900px;
-    margin:auto;
+    margin: auto;
+}
+.blog-container a{
+    text-decoration: none;
+    color:#1d1d1d;
+    margin: 0 auto;
 }
 
 .spinner{
@@ -29,21 +62,77 @@
     box-shadow:2px 2px 4px #f2f2f2;
     border-radius:8px;
 }
-p{
+.blog-card p{
     color:#333333;
 }
-
-h2{
+.blog-card h2{
     font-weight:600;
+    font-size: 1.3rem;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    margin-bottom: .75rem;
 }
-img{
-    
+.blog-card img{   
     width:inherit;
     height:inherit;
-    border-radius:5px;
+    border-radius: 5px;
 }
 
-a{
-    text-decoration: none;
-    color:#1d1d1d;
+
+
+/* MEDIA QUERIES */
+
+
+@media (min-width: 1025px) and (max-width: 1113px) {
+    .blog-header {
+        margin: auto;
+        align-items: center;
+        padding-right: 0;
+        margin-bottom: 1rem;
+    }
+
+    .blog-header__options a {
+        color: rgb(133, 21, 21);
+    }
+    .blog-header-options a:hover {
+        color: blue;
+    }
+
+    .blog-header-options__icon {
+        padding-right: 0;
+        font-size: 2rem;
+        margin: auto 1rem;
+    }
+
+    .blog-header-options__text {
+        display: none;
+    }
+}
+
+
+
+@media only screen and (max-width: 866px) {
+    .blog-header {
+        margin: auto;
+        align-items: center;
+        padding-right: 0;
+        margin-bottom: 1rem;
+    }
+
+    .blog-header__options a {
+        color: rgb(133, 21, 21);
+    }
+    .blog-header-options a:hover {
+        color: blue;
+    }
+
+    .blog-header-options__icon {
+        padding-right: 0;
+        font-size: 2rem;
+        margin: auto 1rem;
+    }
+
+    .blog-header-options__text {
+        display: none;
+    }
 }

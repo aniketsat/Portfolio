@@ -6,7 +6,7 @@ import { ThreeDots } from 'svg-loaders-react'
 
 const query = `
     {
-      user(username: "aniketsat") {
+      user(username: "TiiaAurora") {
         publication {
           posts{
             slug
