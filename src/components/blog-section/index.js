@@ -5,7 +5,6 @@ import Nav from './Nav'
 const Blog = ({className}) => {
     return (
         <div className={className}>
-            {/* <Header /> */}
             <Nav/>
             <Blogposts/>
         </div>
