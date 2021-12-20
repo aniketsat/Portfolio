@@ -10,6 +10,7 @@
 
 .project-photo {
     width: 40%;
+    border-radius: 10px;
 }
 
 .project-info {
@@ -49,6 +50,11 @@
     padding: 1.5%;
 }
 
+.project-link {
+    margin-right: 6px;
+    border-radius: 8px;
+}
+
 .link-button {
     display: flex;
     justify-content: center;
@@ -64,6 +70,7 @@
     display: flex;
     align-items: center;
     mask-repeat: 4px;
+    margin-right: 4px;
 }
 
 
