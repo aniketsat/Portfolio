@@ -12,7 +12,7 @@ function About() {
                         <br/>
                         <span className="info-name">Aniket Satapathy</span>
                         <br/>
-                        I am a Machine Learning Practitioner, a Open Source Enthusiasist and
+                        I am a Web Developer, an Open Source Enthusiasist and
                         I love learning new things !!
                     </div>
 
