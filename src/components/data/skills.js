@@ -30,7 +30,33 @@ export const SkillsData = [
         ]
     },
     {
-        type: "Libraries",
+        type: "Frontend",
+        list:[
+            {
+                name: "React",
+                icon: <i class="devicon-react-original colored"></i>,
+            },
+            {
+                name: "Bootstrap",
+                icon: <i class="devicon-bootstrap-plain colored"></i>,
+            },
+        ]
+    },
+    {
+        type: "Backend",
+        list:[
+            {
+                name: "NodeJS",
+                icon: <i class="devicon-nodejs-plain colored"></i>,
+            },
+            {
+                name: "express",
+                icon: <i class="devicon-express-original colored"></i>,
+            },
+        ]
+    },
+    {
+        type: "Data-Science Libraries",
         list:[
             {
                 name: "Numpy",
@@ -39,14 +65,6 @@ export const SkillsData = [
             {
                 name: "Pandas",
                 icon: <i class="devicon-pandas-original colored"></i>,
-            },
-            {
-                name: "Tensorflow",
-                icon: <i class="devicon-tensorflow-original colored"></i>,
-            },
-            {
-                name: "Flask",
-                icon: <i class="devicon-flask-original colored"></i>,
             },
         ]
     },
@@ -60,6 +78,10 @@ export const SkillsData = [
             {
                 name: "MongoDB",
                 icon: <i class="devicon-mongodb-plain-wordmark colored"></i>,
+            },
+            {
+                name: "Firebase",
+                icon: <i class="devicon-firebase-plain colored"></i>,
             },
         ]
     },
