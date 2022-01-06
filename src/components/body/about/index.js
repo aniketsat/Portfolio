@@ -18,7 +18,7 @@ function About() {
 
                     <div className="bootstrap-buttons d-grid gap-2 d-md-block text-center">
                         <button className="button-1 btn btn-outline-light" type="button">
-                            <a href="https://github.com/aniket-1812" target="_blank" rel="noreferrer">
+                            <a href="https://github.com/aniketsat" target="_blank" rel="noreferrer">
                             <i class="devicon-github-original colored download-icon"></i>Github
                             </a>
                         </button>
