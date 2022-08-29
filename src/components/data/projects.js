@@ -18,7 +18,7 @@ export const ProjectData = [
     demo: "https://nameittt.netlify.app/",
     github: "https://github.com/aniketsat/NameIttt",
     image:
-      "",
+      "https://raw.githubusercontent.com/aniketsat/NameIttt/master/nameit.png",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ export const ProjectData = [
     demo: "https://weatheryyy.netlify.app/",
     github: "https://github.com/aniketsat/Weather-App",
     image:
-      "",
+      "https://raw.githubusercontent.com/aniketsat/Weather-App/master/weatheryyy.png",
   },
   {
     id: 4,
