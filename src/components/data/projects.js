@@ -11,6 +11,16 @@ export const ProjectData = [
   },
   {
     id: 2,
+    title: "E-Grad Platform",
+    about: "e-Repo, e-Exam,OpenForum all at one platform",
+    tags: ["Express", "MongoDB"],
+    demo: "https://egrad-portal.netlify.app/",
+    github: "https://github.com/aniketsat/e-Grad-Client",
+    image:
+      "",
+  },
+  {
+    id: 3,
     title: "Name It",
     about:
       "Get a name for your next project ✨",
@@ -21,7 +31,7 @@ export const ProjectData = [
       "https://raw.githubusercontent.com/aniketsat/NameIttt/master/nameit.png",
   },
   {
-    id: 3,
+    id: 4,
     title: "Weatheryyy",
     about:
       "Find about the weather in your nearest town...",
@@ -30,17 +40,6 @@ export const ProjectData = [
     github: "https://github.com/aniketsat/Weather-App",
     image:
       "https://raw.githubusercontent.com/aniketsat/Weather-App/master/weatheryyy.png",
-  },
-  {
-    id: 4,
-    title: "Sudoku Solver",
-    about:
-      "Generate and Solve any sudoku problem with the Sudoku-Solver made with HTML,CSS and JavaScript, solved by a simple API call...",
-    tags: ["HTML", "CSS", "JavaScript", "Axios", "RapidAPI"],
-    demo: "https://sudo-solver.netlify.app/",
-    github: "https://github.com/aniketsat/Sudoku-Solver",
-    image:
-      "https://github.com/aniketsat/Sudoku-Solver/blob/master/Sudoku-Solved.png?raw=true",
   },
   {
     id: 5,
@@ -55,13 +54,12 @@ export const ProjectData = [
   },
   {
     id: 6,
-    title: "Picture-In-Picture",
-    about:
-      "Read your favourite blog or documentation with watching some tutorial side-by-side using this tool.... Click the SHARE button for sharing any tabs or screen and then click START to get this working !",
-    tags: ["HTML", "CSS", "JavaScript", "FetchAPI", "API"],
-    demo: "https://aniketsat.github.io/Picture-In-Picture/",
-    github: "https://github.com/aniketsat/Picture-In-Picture",
+    title: "Exercise Tracker Microservice",
+    about: "An microservice made using express and mongodb",
+    tags: ["Express", "MongoDB"],
+    demo: "",
+    github: "https://github.com/aniketsat/Exercise-Tracker",
     image:
-      "https://github.com/aniketsat/Picture-In-Picture/blob/master/pip.jpeg?raw=true",
+      "",
   },
 ];
